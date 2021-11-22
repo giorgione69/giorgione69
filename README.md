@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **ReactJs and Javascript**
 
-- 📫 How to reach me *jofrontenddeveloper@gmail.com*
+- 📫 How to reach me *jofrontenddev@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
